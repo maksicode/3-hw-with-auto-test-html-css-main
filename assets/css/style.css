@@ -1,0 +1,130 @@
+* {
+	/* Свойства для сброса начальных стилей элементов */
+	padding: 0;
+	margin: 0;
+	box-sizing: content-box;
+}
+
+body {
+}
+
+header {
+	/* Стили для хедера */
+	background-color: #2965f1;
+	padding: 20px 0 20px;
+}
+
+header span {
+	/* Стили для текста в хедере IT-INCUBATOR */
+	font-family: "Inter", sans-serif;
+	font-weight: 700;
+	font-size: 20px;
+	color: #fff;
+	padding-left: 2px;
+}
+
+.main-section {
+	/* Стили для первой секции */
+	background-color: #fafaff;
+	padding: 60px 0;
+	height: 100vh;
+}
+
+.main-title {
+	/* Стили для заголовка в первой секции */
+	font-family: "Inter", sans-serif;
+	font-weight: 700;
+	font-size: 48px;
+	color: #303030;
+	margin: 20px;
+}
+
+.main-text {
+	/* Стили для текста в первой секции */
+	font-family: "Inter", sans-serif;
+	font-weight: 400;
+	font-size: 18px;
+	color: #303030;
+}
+
+.main-image {
+	/* Стили для изображения в первой секции */
+	max-width: 715px;
+}
+
+.about-section {
+	/* Стили для второй секции */
+	background-color: #fff;
+	padding: 60px 0;
+}
+
+select {
+	/* Стили для выпадающего списка */
+	font-family: "Inter", sans-serif;
+	font-weight: 400;
+	font-size: 16px;
+	color: #303030;
+	width: 150px;
+	height: 36px;
+}
+
+.section-title {
+	/* Стили для заголовков во второй секции */
+	font-family: "Inter", sans-serif;
+	font-weight: 700;
+	font-size: 24px;
+	color: #303030;
+	margin: 0 0 20px;
+}
+
+.frameworks-list {
+	/* Стили для маркированного списка во второй секции */
+	font-family: "Inter", sans-serif;
+	font-weight: 400;
+	font-size: 16px;
+	color: #303030;
+	padding-left: 20px;
+	list-style-image: ;
+}
+
+.books-list {
+	/* Стили для нумерованного списка во второй секции */
+	font-family: "Inter", sans-serif;
+	font-weight: 400;
+	font-size: 16px;
+	color: #303030;
+	padding-left: 20px;
+}
+
+.label {
+	/* Стили для подписей чекбоксов */
+}
+
+.text-field {
+	/* Стили для односточного поля ввода текста */
+}
+
+.btn {
+	/* Стили для кнопки */
+}
+
+.line {
+	/* Стили для линии */
+}
+
+table {
+	/* Стили для таблицы */
+}
+
+th,
+td {
+	/* Стили для ячеек таблицы */
+}
+
+footer {
+	/* Стили для футера */
+}
+
+.footer-link {
+	/* Стили для футера */
+}
